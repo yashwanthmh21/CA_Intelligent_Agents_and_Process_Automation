@@ -1,0 +1,101 @@
+Subject,Description,Predicted Category,Assigned Team
+Blocked from system,Please reset my Windows login password.,Access,IT Security Team
+Unable to install software,I'm unable to install the software needed for work.,Software,Application Support
+Network drive unavailable,Internet is very slow and affects meetings.,Network,Network Admins
+Software update failed,License has expired and I can't open the program.,Software,Application Support
+Keyboard not working,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+Blocked from system,My email account has been locked unexpectedly.,Access,IT Security Team
+System overheating,The system gets very hot after a few minutes of use.,Hardware,Level 2 Support
+Slow network,Cannot access the shared network drive.,Network,Network Admins
+Slow network,Cannot access the shared network drive.,Network,Network Admins
+Battery not charging,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Software update failed,The application crashes upon launch.,Software,Application Support
+Low toner warning,Can't connect to the network printer.,Printer,Facilities IT
+Blocked from system,Access to internal systems is blocked after update.,Access,IT Security Team
+Request folder access,Facing issues with two-factor authentication.,Access,IT Security Team
+License expired,I'm unable to install the software needed for work.,Software,Application Support
+Low toner warning,Print jobs remain in queue and don’t print.,Printer,Facilities IT
+Low toner warning,The printer shows a low toner warning.,Printer,Facilities IT
+Slow network,VPN is not connecting to the internal network.,Network,Network Admins
+Cannot connect to printer,Print jobs remain in queue and don’t print.,Printer,Facilities IT
+Software update failed,The application crashes upon launch.,Software,Application Support
+Low toner warning,The printer shows a low toner warning.,Printer,Facilities IT
+Keyboard not working,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+Password reset needed,Facing issues with two-factor authentication.,Access,IT Security Team
+Email account locked,My email account has been locked unexpectedly.,Access,IT Security Team
+WiFi disconnecting,No internet connection since morning.,Network,Network Admins
+Printer not working,Print jobs remain in queue and don’t print.,Printer,Facilities IT
+Blue screen error,Getting a blue screen error frequently.,Hardware,Level 2 Support
+Cannot connect to printer,Print jobs remain in queue and don’t print.,Printer,Facilities IT
+Request folder access,My email account has been locked unexpectedly.,Access,IT Security Team
+Email account locked,I need access to the shared finance folder.,Access,IT Security Team
+No internet access,WiFi keeps disconnecting every few minutes.,Network,Network Admins
+Unable to install software,The update fails with an unknown error.,Software,Application Support
+Printer not working,Can't connect to the network printer.,Printer,Facilities IT
+Low toner warning,The printer is not responding to any print commands.,Printer,Facilities IT
+Blue screen error,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Blue screen error,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Email account locked,I need access to the shared finance folder.,Access,IT Security Team
+Password reset needed,My email account has been locked unexpectedly.,Access,IT Security Team
+System overheating,The battery doesn't hold charge even after full night charging.,Hardware,Level 2 Support
+App crash issue,The application runs extremely slow on my computer.,Software,Application Support
+System overheating,The battery doesn't hold charge even after full night charging.,Hardware,Level 2 Support
+No internet access,VPN is not connecting to the internal network.,Network,Network Admins
+Blue screen error,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+Network drive unavailable,Cannot access the shared network drive.,Network,Network Admins
+Laptop not starting,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+Blocked from system,Access to internal systems is blocked after update.,Access,IT Security Team
+Battery not charging,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Print jobs stuck,There is a paper jam and I can't remove it.,Printer,Facilities IT
+Email account locked,Access to internal systems is blocked after update.,Access,IT Security Team
+Paper jam issue,Can't connect to the network printer.,Printer,Facilities IT
+Laptop not starting,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+System overheating,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Slow application,License has expired and I can't open the program.,Software,Application Support
+2FA issue,Access to internal systems is blocked after update.,Access,IT Security Team
+Network drive unavailable,No internet connection since morning.,Network,Network Admins
+Slow network,Cannot access the shared network drive.,Network,Network Admins
+License expired,License has expired and I can't open the program.,Software,Application Support
+App crash issue,The application runs extremely slow on my computer.,Software,Application Support
+Password reset needed,Facing issues with two-factor authentication.,Access,IT Security Team
+Laptop not starting,Getting a blue screen error frequently.,Hardware,Level 2 Support
+Unable to install software,The update fails with an unknown error.,Software,Application Support
+Network drive unavailable,No internet connection since morning.,Network,Network Admins
+VPN not connecting,VPN is not connecting to the internal network.,Network,Network Admins
+Printer not working,Can't connect to the network printer.,Printer,Facilities IT
+Battery not charging,The system gets very hot after a few minutes of use.,Hardware,Level 2 Support
+Printer not working,The printer shows a low toner warning.,Printer,Facilities IT
+Slow network,WiFi keeps disconnecting every few minutes.,Network,Network Admins
+VPN not connecting,Cannot access the shared network drive.,Network,Network Admins
+Software update failed,The update fails with an unknown error.,Software,Application Support
+2FA issue,Facing issues with two-factor authentication.,Access,IT Security Team
+Low toner warning,The printer is not responding to any print commands.,Printer,Facilities IT
+App crash issue,The update fails with an unknown error.,Software,Application Support
+Battery not charging,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+Unable to install software,The update fails with an unknown error.,Software,Application Support
+Low toner warning,The printer is not responding to any print commands.,Printer,Facilities IT
+Email account locked,Access to internal systems is blocked after update.,Access,IT Security Team
+Blocked from system,Facing issues with two-factor authentication.,Access,IT Security Team
+Laptop not starting,The battery doesn't hold charge even after full night charging.,Hardware,Level 2 Support
+Keyboard not working,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+No internet access,WiFi keeps disconnecting every few minutes.,Network,Network Admins
+Laptop not starting,The system gets very hot after a few minutes of use.,Hardware,Level 2 Support
+Software update failed,The update fails with an unknown error.,Software,Application Support
+Slow network,No internet connection since morning.,Network,Network Admins
+Cannot connect to printer,There is a paper jam and I can't remove it.,Printer,Facilities IT
+Keyboard not working,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Request folder access,Access to internal systems is blocked after update.,Access,IT Security Team
+Software update failed,The application runs extremely slow on my computer.,Software,Application Support
+System overheating,Getting a blue screen error frequently.,Hardware,Level 2 Support
+Software update failed,License has expired and I can't open the program.,Software,Application Support
+Print jobs stuck,Can't connect to the network printer.,Printer,Facilities IT
+WiFi disconnecting,WiFi keeps disconnecting every few minutes.,Network,Network Admins
+Keyboard not working,Keyboard keys are unresponsive.,Hardware,Level 2 Support
+WiFi disconnecting,Internet is very slow and affects meetings.,Network,Network Admins
+Unable to install software,The application crashes upon launch.,Software,Application Support
+No internet access,WiFi keeps disconnecting every few minutes.,Network,Network Admins
+Network drive unavailable,Cannot access the shared network drive.,Network,Network Admins
+Battery not charging,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+VPN not connecting,No internet connection since morning.,Network,Network Admins
+System overheating,My laptop won't power on even after plugging in.,Hardware,Level 2 Support
+Slow network,VPN is not connecting to the internal network.,Network,Network Admins
